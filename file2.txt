@@ -1,0 +1,40 @@
+Question a:
+82
+
+Question b:
+Mumbai (Bombay): 10500000
+Seoul: 9981619
+São Paulo: 9968485
+Shanghai: 9696300
+Jakarta: 9604900
+
+Question c:
+Russian Federation: 17075400.0
+Canada: 9970610.0
+China: 9572900.0
+United States: 9363520.0
+Brazil: 8547403.0
+
+Question d:
+Count: 68
+
+Question e:
+Belgium, Dominican Republic, El Salvador, Greece, Honduras, Liberia, Nicaragua
+
+Question f:
+Saint Helena: 76.8
+Libyan Arab Jamahiriya: 75.5
+Tunisia: 73.7
+Réunion: 72.7
+Mauritius: 71.0
+
+Question g:
+Chinese: 1,189,062,904 estimated speakers
+Hindi: 405,633,069 estimated speakers
+Spanish: 354,799,064 estimated speakers
+English: 312,497,762 estimated speakers
+Arabic: 233,486,554 estimated speakers
+
+Question h:
+"Micronesia, Albania, Algeria, American Samoa, Andorra, Angola, Anguilla, Antigua and Barbuda, Argentina, Armenia, Aruba, Australia, Austria, Bermuda, Bolivia, Bosnia and Herzegovina, Botswana, Bulgaria, Cambodia, Canada, China, Colombia, Costa Rica, Croatia, Cuba, Dominica, Equatorial Guinea, Eritrea, Estonia, Ethiopia, French Guiana, French Polynesia, Gambia, Georgia, Ghana, Grenada, Guatemala, Guinea, Guyana, India, Indonesia, Jamaica, Kenya, Latvia, Liberia, Libyan Arab Jamahiriya, Lithuania, Macedonia, Malaysia, Malta, Mauritania, Moldova, Mongolia, Namibia, New Caledonia, Nicaragua, Nigeria, North Korea, Panama, Papua New Guinea, Romania, Rwanda, Saint Helena, Saint Lucia, Samoa, Saudi Arabia, Slovakia, Slovenia, Somalia, South Africa, South Korea, Sri Lanka, Syria, Tanzania, Tonga, Tunisia, Uganda, Venezuela, Wallis and Futuna, Western Sahara, Yugoslavia, Zambia
+
